@@ -1,0 +1,1 @@
+## Word Score Coding Challenge
